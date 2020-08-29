@@ -45,7 +45,7 @@ I love to do Opensource contribution's.
   </a>
   &nbsp;&nbsp;
   <a   target="_blank" >
-    <img src="https://github.com/ddjain/ddjain/blob/master/assets/mysql.gif" height="90" />&nbsp;&nbsp;
+    <img src="https://github.com/ddjain/ddjain/blob/master/assets/mysql.png" height="90" />&nbsp;&nbsp;
   </a>
   &nbsp;&nbsp;
   <a  target="_blank" >
