@@ -13,10 +13,10 @@ I love to do Opensource contribution's.
   </a>
   
    <a  target="_blank" >
-    <img src="https://raw.githubusercontent.com/ddjain/ddjain/master/assets/angularjs.png" height="70" />
+    <img src="https://github.com/ddjain/ddjain/blob/master/assets/angularjs.png" height="70" />
   </a> 
      <a target="_blank" >
-    <img src="https://raw.githubusercontent.com/ddjain/ddjain/master/assets/springboot.png" height="70" />
+    <img src="https://github.com/ddjain/ddjain/blob/master/assets/springboot.png" height="70" />
   </a> 
   
    <a   target="_blank" >
@@ -26,8 +26,8 @@ I love to do Opensource contribution's.
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
   
-  <a   target="_blank" >
-    <img src="https://raw.githubusercontent.com/ddjain/ddjain/master/assets/jenkins.gif" height="70" />
+  <a  target="_blank" >
+    <img src="https://github.com/ddjain/ddjain/blob/master/assets/jenkins.gif" height="70" />
   </a>
  </p>
   
@@ -45,7 +45,7 @@ I love to do Opensource contribution's.
   </a>
   &nbsp;&nbsp;
   <a   target="_blank" >
-    <img src="https://raw.githubusercontent.com/ddjain/ddjain/master/assets/mysql.gif" height="90" />&nbsp;&nbsp;
+    <img src="https://github.com/ddjain/ddjain/blob/master/assets/mysql.gif" height="90" />&nbsp;&nbsp;
   </a>
   &nbsp;&nbsp;
   <a  target="_blank" >
