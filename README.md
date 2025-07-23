@@ -1,57 +1,46 @@
 ### Hi there 👋
- 
 
-I am Darshan Jain, a passionate and creative developer. I mostly work on Angular, Spring boot and Cloud technologies,
-I love to do Opensource contribution's.
+I'm **Darshan Jain** — a Senior Lead Software Engineer with 7+ years of experience designing secure, scalable, and cost-optimized cloud-native systems.  
+I specialize in **DevOps**, **cloud infrastructure**, and **microservices**, and I’m passionate about automation, open-source contributions, and mentoring future engineers.
 
+ <h3>I build software // cloud / automation / devops / k8s / docker // 7y ⚙️ engineer </h3>
 
-<p float="left">
- 
- 
-  <a  target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
-  
-   <a  target="_blank" >
-    <img src="https://github.com/ddjain/ddjain/blob/master/assets/angularjs.png" height="70" />
-  </a> 
-     <a target="_blank" >
-    <img src="https://github.com/ddjain/ddjain/blob/master/assets/springboot.png" height="70" />
-  </a> 
-  
-   <a   target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
-  <a   target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-  
-  <a  target="_blank" >
-    <img src="https://github.com/ddjain/ddjain/blob/master/assets/jenkins.gif" height="70" />
-  </a>
- </p>
-  
-### Cloud platform
-  <a  target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
- </p>
- 
-### Databases
-  
- <p float="left">
-  <a  target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
-  </a>
-  &nbsp;&nbsp;
-  <a   target="_blank" >
-    <img src="https://github.com/ddjain/ddjain/blob/master/assets/mysql.png" height="90" />&nbsp;&nbsp;
-  </a>
-  &nbsp;&nbsp;
-  <a  target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
+<h3>☁️ Cloud Platforms</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
   </a>
 </p>
+
+<h3>🧰 Frameworks & Tools</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,django,express" />
+  </a>
+</p>
+
+<h3>🛠️ DevOps & Infrastructure</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins," />
+  </a>
+</p>
+
+<h3>💻 Languages</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
+  </a>
+</p>
+
+<h3>📊 Monitoring & Observability</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+  </a>
+</p>
+
+
 
 ## 🏗️ My Builds
 
