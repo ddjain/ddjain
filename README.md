@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<h3 align="left">
+  Hi there 👋
+  <img src="https://komarev.com/ghpvc/?username=ddjain&label=Profile%20views&color=0e75b6&style=flat" alt="ddjain" align="right" style="vertical-align: middle; margin-left: 10px;" />
+</h3>
 I'm **Darshan Jain** — a Senior Lead Software Engineer with 7+ years of experience designing secure, scalable, and cost-optimized cloud-native systems.  
 I specialize in **DevOps**, **cloud infrastructure**, and **microservices**, and I’m passionate about automation, open-source contributions, and mentoring future engineers.
 
