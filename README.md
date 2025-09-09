@@ -52,6 +52,7 @@ I specialize in **DevOps**, **cloud infrastructure**, and **microservices**, and
 |---------|-------------|--------------|
 | [AWS Pipeline CLI](https://github.com/ddjain/aws-pipeline-cli) | An interactive terminal utility to view and trigger AWS CodePipeline pipelines with search and navigation features | Shell, Ruby |
 | [HTTP Health Check Pro](https://github.com/ddjain/http-health-check-pro) | Advanced HTTP health check with retry logic, response time monitoring, and webhook notifications | JavaScript |
+| [JSONL Visualizer](https://ddjain.github.io/jsonl-visualizer/) | A beautiful, modern web tool for visualising JSONL (JSON Lines) files with an intuitive interface and powerful features. | HTML, CSS, JS |
 | [CompanySage](https://github.com/ddjain/CompanySage) | A powerful open-source Retrieval-Augmented Generation (RAG) app using Qdrant for intelligent document Q&A, ideal for internal knowledge bases | Python, Qdrant, Docker |
 | [Kubernetics MCP Server](https://github.com/ddjain/kubernetics-mcp-server) | A Model Context Protocol (MCP) server exposing Kubernetes introspection tools for GenAI integrations | TypeScript, MCP, GenAI |
 | [ECS2Compose](https://github.com/ddjain/ECS2Compose) | A web-based tool that converts AWS ECS Task Definition JSON into Docker Compose YAML | HTML, JS, AWS ECS |
